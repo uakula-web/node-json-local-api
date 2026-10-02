@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "A Usha Rani",
+    "role": "Full-Stack MERN Developer",
+    "gitamCampus": "Hyderabad",
+    "leetcodeMilestone": "133 Solved Problems"
+  },
+  {
+    "id": 2,
+    "name": "Tech Recruiter",
+    "role": "Technical Talent Acquisition",
+    "company": "Amazon India",
+    "status": "Reviewing Portfolio"
+  }
+]
